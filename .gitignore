@@ -15,6 +15,7 @@
 /output*/
 /_output*/
 /_output
+/vendor
 
 # Binaries for programs and plugins
 *.exe
